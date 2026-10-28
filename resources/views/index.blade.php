@@ -10,9 +10,9 @@
 
         <P data-aos="fade-down" data-aos-duration="2000">We provide a safe, nurturing and stimulating environment where every child is encouraged to learn, explore, make friends and develop their unique potential.</P>
 
-        <div class="hero-btns">
+        <div class="hero-btns" data-aos="fade-down">
             <a href="/#contacts" class="hero-btn" data-aos="fade-down-right" data-aos-duration="2500">Enroll Your Child</a>
-            <a href="/#programs" class="hero-btn hero-btn-2" data-aos="fade-down-right" data-aos-duration="3000">Explore Our Programs</a>
+            <a href="/#programs" class="hero-btn hero-btn-2">Explore Our Programs</a>
         </div>
 
         <div class="hero-images" data-aos="fade-up">
