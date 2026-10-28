@@ -62,7 +62,7 @@
 
     <div class="footer">
         <div class="container">
-            <div class="row row-cols-1 row-cols-md-3">
+            <div class="row row-cols-1 row-cols-md-3 g-4">
                 <div class="col-md-6">
                     <h4><img src="{{asset('images/citrus-w.svg')}}" /> Orange Daycare</h4>
                     <p>We're a daycare school located at the heart of Dodoma city in Tanzania with experience of over 10 years with professional teachers ready to teach and raise your child well.</p>
