@@ -16,5 +16,5 @@ const navbar = document.querySelector('.navbar');
 // 2. Add the click event listener
 toggler.addEventListener('click', () => {
     // Toggles the 'navbar-expanded' class on and off
-    navbar.classList.toggle('scrolled'); 
+    navbar.classList.toggle('click-nav'); 
 });

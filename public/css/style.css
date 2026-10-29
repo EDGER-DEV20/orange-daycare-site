@@ -37,6 +37,15 @@
     transition: all .5s ease-in-out;
 }
 
+.click-nav{
+    background-color: #ffffff;
+    box-shadow: 0 0 30px #00000028;
+    position: fixed;
+    top: 0;
+    left:0;
+    transition: all .5s ease-in-out;
+}
+
 .navbar-brand h4{
     font-family: fredoka;
     font-weight: 600;
